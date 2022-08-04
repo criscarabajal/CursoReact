@@ -1,0 +1,12 @@
+
+
+.nav-bar {
+    background-color: rgb(230, 230, 230);
+}
+
+.navIcon:hover {
+    color: blueviolet;
+    cursor: pointer;
+    transform: scale(140%);
+}
+
